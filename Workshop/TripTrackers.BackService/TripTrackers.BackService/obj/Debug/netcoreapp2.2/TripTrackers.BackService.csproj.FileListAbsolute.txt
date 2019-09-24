@@ -1,0 +1,14 @@
+C:\Users\yousy\Desktop\Workshop\TripTrackers.BackService\TripTrackers.BackService\bin\Debug\netcoreapp2.2\TripTrackers.BackService.deps.json
+C:\Users\yousy\Desktop\Workshop\TripTrackers.BackService\TripTrackers.BackService\bin\Debug\netcoreapp2.2\TripTrackers.BackService.runtimeconfig.json
+C:\Users\yousy\Desktop\Workshop\TripTrackers.BackService\TripTrackers.BackService\bin\Debug\netcoreapp2.2\TripTrackers.BackService.runtimeconfig.dev.json
+C:\Users\yousy\Desktop\Workshop\TripTrackers.BackService\TripTrackers.BackService\bin\Debug\netcoreapp2.2\TripTrackers.BackService.dll
+C:\Users\yousy\Desktop\Workshop\TripTrackers.BackService\TripTrackers.BackService\bin\Debug\netcoreapp2.2\TripTrackers.BackService.pdb
+C:\Users\yousy\Desktop\Workshop\TripTrackers.BackService\TripTrackers.BackService\obj\Debug\netcoreapp2.2\TripTrackers.BackService.csprojAssemblyReference.cache
+C:\Users\yousy\Desktop\Workshop\TripTrackers.BackService\TripTrackers.BackService\obj\Debug\netcoreapp2.2\TripTrackers.BackService.csproj.CoreCompileInputs.cache
+C:\Users\yousy\Desktop\Workshop\TripTrackers.BackService\TripTrackers.BackService\obj\Debug\netcoreapp2.2\TripTrackers.BackService.RazorAssemblyInfo.cache
+C:\Users\yousy\Desktop\Workshop\TripTrackers.BackService\TripTrackers.BackService\obj\Debug\netcoreapp2.2\TripTrackers.BackService.RazorAssemblyInfo.cs
+C:\Users\yousy\Desktop\Workshop\TripTrackers.BackService\TripTrackers.BackService\obj\Debug\netcoreapp2.2\TripTrackers.BackService.AssemblyInfoInputs.cache
+C:\Users\yousy\Desktop\Workshop\TripTrackers.BackService\TripTrackers.BackService\obj\Debug\netcoreapp2.2\TripTrackers.BackService.AssemblyInfo.cs
+C:\Users\yousy\Desktop\Workshop\TripTrackers.BackService\TripTrackers.BackService\obj\Debug\netcoreapp2.2\TripTrackers.BackService.RazorTargetAssemblyInfo.cache
+C:\Users\yousy\Desktop\Workshop\TripTrackers.BackService\TripTrackers.BackService\obj\Debug\netcoreapp2.2\TripTrackers.BackService.dll
+C:\Users\yousy\Desktop\Workshop\TripTrackers.BackService\TripTrackers.BackService\obj\Debug\netcoreapp2.2\TripTrackers.BackService.pdb
